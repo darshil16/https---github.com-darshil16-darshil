@@ -1,0 +1,38 @@
+input
+{
+    width: 40%;
+    font-size: 20px;
+    padding: 5px 10px 5px 10px;
+    outline: none;
+}
+label
+{
+    font-size: 25px;
+}
+input[type="button"]
+{
+    font-size: 20px;
+    width: 41.5%;
+}
+tr
+{
+    font-size: 20px;
+}
+#Edit
+{
+    color: blue;
+    font-size: 30px;
+    border: none;
+    background-color: white;
+}
+#delete
+{
+    color: red;
+    font-size: 30px;
+    border: none;
+    background-color: white;
+}
+#Add
+{
+    font-size: 20px;
+}
